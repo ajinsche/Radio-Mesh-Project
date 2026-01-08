@@ -1,0 +1,15 @@
+PROTOCOLS: 
+- TCP/IP
+- AX.25
+- KISS
+
+
+HARDWARE: 
+- TI CC1101 Sub-GHz Transceiver IC
+- Raspberry Pi server
+- 
+
+NETWORKING: 
+
+WEB: 
+-
